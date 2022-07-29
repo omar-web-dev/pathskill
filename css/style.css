@@ -1,0 +1,23 @@
+.myform{
+    transform: translate(-50%, -50%);
+  }
+  a{
+    text-decoration: none;
+  }
+  
+  .slider-contain {
+    left: 25%;
+    right: 25%;
+  }
+  .my-carousel-caption{
+position: absolute;
+right: 15%;
+left: 15%;
+padding-top: 1.25rem;
+padding-bottom: 1.25rem;
+color: #fff;
+text-align: center;
+}
+nav .container{
+padding: 0;
+}
